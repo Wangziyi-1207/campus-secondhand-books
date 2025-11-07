@@ -1,7 +1,7 @@
-前台登录页面
+프런트 로그인 페이지
 http://localhost:8080/ershoushujiaoyipingtai/front/index.html
 
-后台登录页面
+백그라운드 로그인 페이지
 http://localhost:8080/ershoushujiaoyipingtai/admin/dist/index.html
 
 管理员				账户:admin 		密码：admin
